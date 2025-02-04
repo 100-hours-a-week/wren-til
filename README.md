@@ -5,3 +5,5 @@
 ### [2월 첫째주, 2주차] : 
 
 25.02.04 프로세스, 스레드, 자바 스레드 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2024-02-04.md))
+
+24.02.03 아키텍처 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2024-02-03.md))
