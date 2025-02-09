@@ -2,6 +2,8 @@
 
 ### [2월 첫째주, 2주차] : 
 
+25.02.07 2주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2024-02-07.md))
+
 25.02.06 동시성, 스케줄링, 병렬성 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2024-02-06.md))
 
 25.02.05 동기/비동기, 블로킹/논블로킹 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2024-02-05.md))
