@@ -1,6 +1,6 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [2월 첫째주, 2주차] : 
+### [2월 첫째주, 2주차] : Java 기초
 
 25.02.07 2주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2024-02-07.md))
 
